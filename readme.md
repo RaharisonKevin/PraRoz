@@ -1,3 +1,13 @@
+# TP PraRoz
+
+L'objectif de ce tp est d'analyser le code de base du site de PraRoz et d'identifier les erreurs tout en proposant des solutions.
+
+Par la suite les solutions de modifications doivent être appliqué sur le code afin qu'il puisse respecter les normes de W3C, l'accessibilité et la responsive.
+
+Le langage qui doit être utiliser est le langage HTML,CSS et JS.
+
+![alt text](./asset/Capture.PNG)
+
 # HTML
 Code non sémantique.
 
