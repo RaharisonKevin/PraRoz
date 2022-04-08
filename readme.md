@@ -9,7 +9,7 @@ Le langage qui doit être utiliser est le langage HTML,CSS et JS.
 ![alt text](./asset/Capture.PNG)
 
 # HTML
-Code non sémantique.
+Le code n'est pas sémantique.
 
 Absence de la balise ``<header>``
 
