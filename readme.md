@@ -5,6 +5,7 @@ L'objectif de ce tp est d'analyser le code de base du site de PraRoz et d'identi
 Par la suite les solutions de modifications doivent être appliqué sur le code afin qu'il puisse respecter les normes de W3C, l'accessibilité et la responsive.
 
 Le langage qui doit être utiliser est le langage HTML,CSS et JS.
+Lien De la page PraRoz [ICI](https://raharisonkevin.github.io/PraRoz/)
 
 ![alt text](./asset/Capture.PNG)
 
